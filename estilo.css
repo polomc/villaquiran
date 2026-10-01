@@ -2,7 +2,7 @@
 body {
 	background-attachment: fixed;
 	background-color: #FFFFFF;
-	background-image: url(imagenes/fondo.gif);
+	background-image: url(fondo.gif);
 	background-repeat: no-repeat;
 	background-position: right bottom;
 }
